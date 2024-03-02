@@ -1,23 +1,36 @@
-.tableHead{
- font-size: 32px;
- font-weight: 500;
- color: bisque;
+table {
+  background-color:whitesmoke;
 }
 
-.tableBody {
-  font-size: large;
-  font-weight: bold;
-  background-color: cyan;
+th {
+  color: red;
 }
 
-.TR1{
-  color: burlywood;
+.First{
+  color: blue;
 }
 
-.TR2{
+.Second {
+  color: aqua;
+}
+
+.Third{
+  color: brown;
+}
+
+.Fourth {
   color: blueviolet;
 }
 
-.TR3{
-  color: brown;
+.Sixth {
+
+  color: bisque;
+}
+
+tbody{
+  font-size: 28px;
+}
+
+tbody{
+  font-weight: 500;
 }
